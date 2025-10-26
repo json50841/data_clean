@@ -1,0 +1,670 @@
+129. influencer - 影响者
+130. Triumph - 胜利
+131. Scandal - 丑闻
+132. Attached - 随附的
+133. pertinent - 相关的
+134. spying - 间谍活动
+135. Hang - 悬挂
+136. devastated - 被摧毁的
+137. Dispatching - 调度
+138. defiant - 挑衅的
+139. ODD - 奇怪的
+140. Exclusive - 独家的
+141. thrilled - 激动
+142. surfactants - 表面活性剂
+143. sulfate - 硫酸盐
+144. Held - 握住
+145. stunt - 特技
+146. retreat - 撤退
+147. Wellness - 健康
+148. Bummer - 无赖
+149. robes - 长袍
+150. Ornamented - 装饰的
+151. stitches - 缝针
+152. Embroidered - 绣花
+153. suite - 套房
+154. facial - 面部的
+155. Exfoliation - 去角质
+156. Masque - 假面舞会
+157. Moisturizing - 保湿
+158. inspired - 受到启发
+159. Pity - 遗憾
+160. feel badly for - 遗憾
+161. apologetic - 抱歉的
+162. Competent - 胜任的
+163. Pervasive - 普遍存在
+164. Muddled - 糊涂
+165. Ascertain - 探明
+166. Superfluous - 多余
+167. Slant - 倾斜
+168. Nibble - 蚕食
+169. Secluded - 僻
+170. Retreat - 撤退
+171. buyout - 买断
+172. Acquisition - 获得
+173. bummer - 无赖
+174. collab - 合作
+175. Heritage - 遗产
+176. Bulky - 笨重
+177. embroidery - 刺绣
+178. premier - 总理
+179. entrance - 入口
+180. blast - 爆炸
+181. Deem - 认为
+182. Superb - 高超
+183. uninspired - 缺乏灵感
+184. impulse - 冲动
+185. goalie - 守门员
+186. repentan - 忏悔者
+187. regretful - 遗憾
+188. sympathize - 同情
+189. be repentant - 悔改
+190. commiserate - 怜悯
+191. repentant - 悔改的
+192. attracted - 吸引了
+193. perfunctory - 敷衍
+194. escalated - 升级的
+195. blatant - 公然的
+196. promptly - 及时
+197. escort - 护送
+198. savory - 咸味的
+199. craving - 渴望
+200. pan sizzling - 平底锅滋滋作响
+201. crunchy - 脆脆的
+202. Protein - 蛋白质
+203. caramel - 焦糖
+204. idioms - 成语
+205. bounty - 赏金
+206. analogy - 类比
+207. Cabbage - 卷心菜
+208. Napa cabbage - 纳帕卷心菜
+209. Chinese cabbage - 白菜
+210. Bok choy - 白菜
+211. Pak choi - 小白菜
+212. Choy sum - 蔡心
+213. Chinese flowering cabbage - 白菜
+214. Chinese broccoli - 西兰花
+215. Gai lan - 盖兰
+216. Water spinach - 空心菜
+217. Ong choy - 翁菜
+218. Spinach - 菠菜
+219. Romaine lettuce - 生菜
+220. Lettuce - 莴苣
+221. Carrot - 胡萝卜
+222. Daikon radish - 白萝卜
+223. Potato - 土豆
+224. Onion - 洋葱
+225. Garlic - 蒜
+226. Ginger - 姜
+227. Taro - 芋头
+228. Lotus root - 莲藕
+229. Gourd & Bean Vegetables - 葫芦豆类蔬菜
+230. Leafy Vegetables - 叶类蔬菜
+231. Root Vegetables - 根类蔬菜
+232. Long beans - 长豆
+233. String beans - 四季豆
+234. Green beans - 绿豆
+235. Bitter melon - 苦瓜
+236. Loofah - 丝瓜络
+237. Sponge gourd - 丝瓜
+238. Winter melon - 冬瓜
+239. Cucumber - 黄瓜
+240. Eggplant - 茄子
+241. Pumpkin - 南瓜
+242. Squash - 壁球
+243. Mushrooms - 蘑菇
+244. Shiitake mushroom - 香菇
+245. Enoki mushroom - 金针菇
+246. Oyster mushroom - 平菇
+247. Straw mushroom - 草菇
+248. White mushroom - 白蘑菇
+249. Button mushroom - 蘑菇
+250. Black fungus - 黑木耳
+251. Wood ear mushroom - 木耳菇
+252. Aromatics & Herbs - 芳香剂和香草
+253. Green onion - 葱
+254. Scallion - 葱
+255. Shallot - 葱
+256. Cilantro - 香菜
+257. Coriander - 香菜
+258. Basil - 罗勒
+259. Thai basil - 泰国罗勒
+260. Green bell pepper - 青椒
+261. Red bell pepper - 红甜椒
+262. Chili pepper - 辣椒
+263. stir-fried - 炒
+264. with garlic sauce - 配蒜酱
+265. with minced garlic - 配蒜末
+266. stir-fried with light soy sauce - 生抽炒
+267. blanched vegetables - 焯烫的蔬菜
+268. Carefully chosen - 精心挑选
+269. Hand-picked - 精挑细选
+270. Cherry-picked - 精挑细选
+271. Highly selective - 高选择性
+272. bruises - 瘀伤
+273. scrapes - 擦伤
+274. pole - 极
+275. stripper - 脱衣舞娘
+276. intense - 激烈的
+277. presiding - 主持
+278. counsel - 法律顾问
+279. preliminary - 初步的
+280. hostage - 人质
+281. conviction - 定罪
+282. dumpster - 垃圾箱
+283. rubbish - 垃圾
+284. ample - 充足
+285. compelling - 引人注目的
+286. severity - 严重程度
+287. consciousness - 意识
+288. impartial - 公正
+289. Allusion - 典故
+290. tender - 投标
+291. spaghetti - 意大利细面条
+292. cuddle - 偎
+293. metropolitan - 大都市的
+294. predator - 捕食者
+295. supposed - 假设
+296. through - 通过
+297. ripped - 撕裂的
+298. framing - 框架
+299. reconvene - 重新召集
+300. brunch - 早午餐
+301. stabbed - 被刺伤
+302. passion - 热情
+303. wrapped - 包裹着
+304. fliers - 传单
+305. proximal - 近端
+306. dote - 宠爱
+307. bothered - 烦恼
+308. arraignment - 提审
+309. entitled - 有权
+310. conference - 会议
+311. despicable - 卑鄙
+312. inadvertently - 不经意间
+313. caveats - 注意事项
+314. ribe - 里贝
+315. precious - 宝贵的
+316. affair - 事务
+317. vengeance - 复仇
+318. savagely - 野蛮地
+319. mellitus - 梅利图斯
+320. diabetes - 糖尿病
+321. prevalent - 流行
+322. udemy - 乌德米
+323. pervasive - 普遍的
+324. companies - 公司
+325. Span - 跨度
+326. Wicked - 邪恶
+327. prospects - 前景
+328. criteria - 标准
+329. tall, grande venti - 高大的风口
+330. outreach - 外展
+331. throughout - 自始至终
+332. documenting - 记录
+333. Adhere - 坚持
+334. ensuing - 随后的
+335. accordingly - 因此
+336. placement - 放置
+337. pertaining - 有关的
+338. coordinator - 协调员
+339. welfare - 福利
+340. supplies - 补给品
+341. embody - 体现
+342. This Is How We Roll - 这就是我们的滚动方式
+343. Informed - 消息灵通
+344. Crisis - 危机
+345. Humility - 谦逊
+346. autonomous - 自主
+347. Dependent - 依赖者
+348. Advocate - 提倡
+349. Sabbatical - 休假的
+350. embracing - 拥抱
+351. Pursuant - 据此
+352. Ordinance - 条例
+353. Voluntary - 自愿
+354. disfigurement - 毁容
+355. congenital - 先天性的
+356. Epilepsy - 癫痫
+357. respiratory - 呼吸系统
+358. stature - 身材
+359. Attach - 附
+360. Conduct - 执行
+361. milieu - 环境
+362. Restorative - 恢复性
+363. dietary - 饮食
+364. significance - 意义
+365. suited - 适合
+366. signification - 意义
+367. sense - 感觉
+368. suppress - 压制
+369. concerned - 担心的
+370. rejuvenation - 复兴
+371. versatile - 多才多艺的
+372. scythe - 镰
+373. leek - 韭葱
+374. junior - 初级
+375. refuting - 反驳
+376. rebels - 叛乱分子
+377. slandering - 诽谤
+378. governance - 治理
+379. fintech - 金融科技
+380. shallots - 青葱
+381. toasted - 烤的
+382. suitable - 合适的
+383. versus - 相对
+384. surrendered - 投降
+385. ankle - 踝
+386. interface - 界面
+387. compliments - 赞美
+388. vomit - 呕吐
+389. vomit throw out - 呕吐物扔出
+390. collapse breakdown - 崩溃崩溃
+391. Fainting and passing out - 晕倒并昏倒
+392. ferry - 渡船
+393. recap - 回顾
+394. endurance - 耐力
+395. storage - 贮存
+396. Stalked - 跟踪
+397. commissary - 小卖部
+398. pavilion - 亭
+399. grab - 抓住
+400. kiosk - 亭
+401. dashing - 潇洒的
+402. retarded - 迟钝的
+403. hang - 悬挂
+404. councilwoman - 女议员
+405. foster - 促进
+406. vending - 自动售货机
+407. references - 参考
+408. parallel - 平行线
+409. incredible - 极好的
+410. commerce - 商业
+411. chamber - 室
+412. parole - 言语
+413. parole board - 假释委员会
+414. establishment - 设立
+415. I'm going to hit the sack. - 我要被解雇了。
+416. purse - 钱包
+417. shears - 剪
+418. hedge - 对冲
+419. robbery - 抢劫
+420. convince - 说服
+421. furious - 狂怒
+422. restraining - 抑制
+423. visitation - 探访
+424. served - 服务
+425. curtains - 窗帘
+426. tense - 紧张
+427. Starring - 主演
+428. exclamation - 感叹
+429. Premier - 总理
+430. tragedy - 悲剧
+431. perfume - 香水
+432. fragrance - 香味
+433. drastically - 彻底地
+434. compatriots - 同胞们
+435. ointment - 软膏
+436. Mov - 莫夫
+437. sneaking - 鬼鬼祟祟
+438. dodging - 闪避
+439. inquiries - 查询
+440. surface - 表面
+441. deliberate - 商榷
+442. blowing - 吹
+443. proportion - 部分
+444. out of proportion - 不成比例
+445. indecisiveness - 优柔寡断
+446. hunch - 直觉
+447. skipping - 跳绳
+448. capable - 有能力的
+449. nailer - 钉枪
+450. I'm about to find out. - 我正要找出答案。
+451. desperately - 拼命地
+452. coal - 煤炭
+453. property - 财产
+454. wicked - 邪恶
+455. slotted spoon - 有槽勺
+456. blender - 混合器
+457. fly - 飞
+458. Oven Mitt - 烤箱手套
+459. conspiracy - 阴谋
+460. plot - 阴谋
+461. scheme - 方案
+462. cabal - 阴谋
+463. pitfall - 陷阱
+464. crack - 裂缝
+465. creep - 蠕变
+466. swap - 交换
+467. amigos - 朋友
+468. screwdriver - 螺丝刀
+469. pliers - 钳
+470. Allen key - 内六角扳手
+471. wrench - 扳手
+472. wheel - 车轮
+473. earplugs - 耳塞
+474. blanket - 毯子
+475. still - 仍然
+476. sparkling - 闪闪发光的
+477. snore - 鼾
+478. airways - 航空公司
+479. noise cancelling - 降噪
+480. snails - 蜗牛
+481. pawns - 典当
+482. carries - 携带
+483. cavity - 空腔
+484. anesthesia - 麻醉
+485. portable - 便携的
+486. drinkable - 饮用
+487. dressings - 敷料
+488. four season salad, - 四季沙拉，
+489. cesar - 塞萨尔
+490. honey - 蜂蜜
+491. mustard - 芥末
+492. ranch - 牧场
+493. internal - 内部的
+494. bleeding - 出血
+495. hemorrhage - 出血
+496. broncoscopy - 支气管镜检查
+497. colonoscopy - 结肠镜检查
+498. Spotlight - 聚光灯
+499. sewing - 缝纫
+500. thimble - 顶针
+501. needle threader - 穿线器
+502. catch - 抓住
+503. football pitch - 足球场
+504. urine - 尿
+505. sterile container - 无菌容器
+506. Network with employers - 与雇主建立联系
+507. mutual consent - 双方同意
+508. compliant - 合规的
+509. Fitness - 健康
+510. Intensive - 密集的
+511. fostering - 养育
+512. entrepreneurship - 创业精神
+513. Catering - 餐饮
+514. award - 奖
+515. Notarized - 已公证
+516. Tenant - 租户
+517. ripened - 成熟的
+518. sliced - 切片
+519. contrast - 对比
+520. tropical - 热带
+521. sneak - 潜行
+522. stuff - 东西
+523. rack - 架子
+524. pathetic - 可怜的
+525. Mediocrity - 平庸
+526. sorely - 非常
+527. sewer - 下水道
+528. cloaca - 泄殖腔
+529. gasping - 气喘吁吁
+530. erosion - 侵蚀
+531. bust - 摔碎
+532. stilettos - 高跟鞋
+533. wobbly - 摇摇晃晃的
+534. critical - 批判的
+535. desperate - 绝望的
+535. desperate - 绝望的
+537. hopeless - 绝望
+538. exhausted - 筋疲力尽的
+539. despairing - 绝望的
+540. irremediable - 无法补救的
+541. used up - 用完
+542. crown - 王冠
+543. pile - 桩
+544. broom - 扫帚
+545. greedy - 贪婪的
+546. countenance - 面容
+547. exerting - 努力
+548. coercion - 强迫
+549. incentives - 激励措施
+550. state - 状态
+551. consent - 同意
+552. mutual - 相互的
+553. Adjudication - 裁决
+554. Disclosure - 披露
+555. Tribal - 部落
+556. Consultation - 咨询
+557. evaporate - 蒸发
+558. Tender - 投标
+559. Juicy - 多汁
+560. Depression - 沮丧
+561. absorb - 吸收
+562. take in - 接受
+563. photograph - 照片
+564. shoot - 射击
+565. assimilate - 吸收
+566. take a photograph - 拍照
+563. photograph - 照片
+564. shoot - 射击
+561. absorb - 吸收
+566. take a photograph - 拍照
+565. assimilate - 吸收
+572. act for - 为
+561. absorb - 吸收
+574. suck in - 吸入
+561. absorb - 吸收
+565. assimilate - 吸收
+577. recruit - 招募
+578. imbibe - 吸收
+579. admit - 承认
+580. enroll - 注册
+581. paprika - 辣椒
+582. chunks - 块
+583. scoop - 舀
+584. moisture - 水分
+585. squeeze - 挤
+586. Pour - 倒
+587. Pour the eggplant in after the oil is hot. - 油热后倒入茄子。
+588. braised pork - 红烧肉
+589. gooey - 粘糊糊的
+590. crush - 压碎
+591. vegan - 素食主义者
+592. literally - 字面上地
+593. pasta - 面食
+594. whining - 发牢骚
+595. barely - 仅仅
+596. comped - 补偿
+597. frail - 脆弱
+598. chronic - 慢性的
+599. liaison - 联络
+600. caregivers - 照顾者
+601. interdisciplinary - 跨学科的
+602. stoop - 哈腰
+603. crouch - 蹲伏
+604. crawl - 爬行
+605. accommodation - 住宿
+606. privileges - 特权
+607. shrunk - 缩小了
+608. casualties - 伤亡
+609. paramedics - 护理人员
+610. adorable - 可爱的
+611. stunning - 令人惊叹的
+612. Pythagorean theorem - 毕达哥拉斯定理
+613. The law of cosines - 余弦定律
+614. suitability - 适应性
+615. was there anything in particular that caught your attention? - 有什么特别引起您注意的吗？
+616. reach out - 伸出手
+617. radiant - 容光焕发的
+618. Wax - 蜡
+619. lounge - 休息室
+620. mansion - 大厦
+621. ordinary - 普通的
+622. porridge - 稀饭
+623. sketching - 素描
+624. stagnant - 停滞的
+625. cocky - 趾高气扬的
+626. fabricated - 编造的
+627. cultivation - 栽培
+628. half the credit of our school - 我们学校一半的学分
+629. spotlight - 聚光灯
+630. slot - 投币口
+631. spot - 点
+632. fraudulently - 欺诈地
+633. prestigious - 享有盛誉的
+634. etiquette - 礼仪
+635. your - 你的
+636. depravity - 堕落
+637. patched up - 修补了
+638. constant - 持续的
+639. expelled - 被开除
+640. deliberately - 故意地
+641. surveillance - 监视
+642. Your words and actions are baseless. - 你的言论和行为都是毫无根据的。
+643. demeanor - 风度
+644. braised eggplant - 红烧茄子
+645. a few rounds of sarcasm - 几轮讽刺
+646. separated - 分开
+647. definitely - 确实
+648. surrogate - 代理人
+649. engaged - 已订婚的
+650. had an affair - 有外遇
+651. ecstasy - 狂喜
+652. sober - 清醒
+653. cure - 治愈
+654. crib - 婴儿床
+655. adore - 崇拜
+656. coward - 懦夫
+657. finely - 精细地
+658. Greek Yogurt - 希腊酸奶
+659. entirely - 完全
+660. exhilarating - 令人振奋的
+661. adrenaline - 肾上腺素
+662. surging - 滔滔
+663. forehead - 前额
+664. I can always break even, starting with my forehead. - 我总能收支平衡，从我的额头开始。
+665. feasible - 可行的
+666. fluctuations - 波动
+667. collateral - 抵押品
+668. exquisite - 精美的
+669. pervert - 变态
+670. upbringing - 教养
+671. frugality - 节俭
+672. caring - 关怀
+673. integrity - 正直
+674. foundation - 基础
+675. bottom - 底部
+676. scammer - 骗子
+677. depreciate - 贬值
+678. shrewd - 精明
+679. exaggerated - 夸张的
+680. preserve - 保存
+681. designated - 指定的
+682. valet - 代客泊车
+683. balcony - 阳台
+684. But in some countries, you might have to use an adapter because the outlets or sockets might be different. - 但在某些国家/地区，您可能必须使用适配器，因为插座或插座可能不同。
+685. thermostat - 恒温器
+686. closet doors - 壁橱门
+687. ironing board - 烫衣板
+688. luggage or my suitcase - 行李或我的手提箱
+689. amenities - 便利设施
+690. atrium - 中庭
+691. complimentary breakfast - 免费早餐
+431. perfume - 香水
+693. scent - 香味
+694. cologne - 科隆
+695. aromatic water - 香水
+696. nosegay - 花束
+697. compilation - 汇编
+698. connotations - 内涵
+699. Catalogue - 目录
+700. list - 列表
+701. directory - 目录
+702. yolks - 蛋黄
+703. condensed - 浓缩的
+704. interchangeably - 可互换地
+705. dormatory but in English we normally just shorten this word and call it dorm dorm - dormatory 但在英语中我们通常只是缩短这个词并称之为 dorm dorm
+706. she is wearing a gown a cap a sash - 她穿着长袍，戴着帽子，系着腰带
+707. Serger Machine - 包边机
+708. Thriller - 惊悚片
+709. growling - 咆哮
+710. Quit growling. I'm not graveling - 别再咆哮了。
+711. complacent - 自满
+712. superior - 优越的
+713. shouted - 喊道
+714. compliment - 赞扬
+715. accolades - 荣誉
+716. hilarious - 搞笑的
+717. drop by anytime - 随时过来
+718. commendable - 值得称赞的
+719. reimburse - 补偿
+720. Twisted - 扭曲的
+721. Bun all afternoon for a stupid tea party when I want him for my fort. - 当我想让他成为我的堡垒时，整个下午都在参加一个愚蠢的茶会。
+722. It's a little sanctuary you can call your own. - 这是一个你可以称之为自己的小庇护所。
+723. You said they've been temperamental. He's probably just a little cranky. - 你说他们脾气暴躁。
+724. when they're teens, you're going to be ecstatic that they give you a moment to yourself. - 当他们十几岁的时候，你会因为他们给你一点属于自己的时间而欣喜若狂。
+725. Can I ask what this pertains to - 我可以问一下这与什么有关吗
+726. Regular check-ins with the agency are customary - 按照惯例定期向该机构进行检查
+727. Things have been rather hectic as of late getting the children to acclimate. - 最近让孩子们适应环境的事情相当忙碌。
+728. That's astute of them because I am. - 他们很精明，因为我也是。
+729. If we let this one go, you and I can work better in tandem watching them in the future. - 如果我们放开这个，你和我将来就可以更好地合作观看它们。
+730. stinky - 臭的
+731. why don't we hit the vending machine and get you a midnight snack? - 我们为什么不去自动售货机给你买一份夜宵呢？
+732. cut halfway until you hit the spine and flip the salmon - 切一半，直到切到脊椎，然后翻转鲑鱼
+733. in this step i'm removing belly balls - 在这一步中我要去除肚皮球
+734. fillet - 鱼片
+735. carry parasites - 携带寄生虫
+736. rub - 擦
+737. Intramural sports - 校内运动
+738. accents - 口音
+739. yoga retreats - 瑜伽静修
+740. her travel groups were curated - 她的旅行团是精心策划的
+741. being a minority like being not of the major population to humble myself. - 作为少数群体就像不属于主要人口一样谦卑自己。
+742. They're just latching on to something new - 他们只是抓住新事物
+743. The screen's faint glimmer is insufficient to brighten your world - 屏幕微弱的微光不足以照亮你的世界
+744. stuffy nose - 鼻塞
+745. deflated - 瘪
+746. inflated - 膨胀的
+747. utensil - 用具
+748. raer - 拉尔
+749. a gray raer a whisk a peeler a cork screw - 一个灰色的拉尔 一个搅拌器 一个削皮器 一个软木塞螺丝
+750. let's see what I have in my backpack - 让我们看看我的背包里有什么
+751. a SIV - 一个SIV
+752. sieve - 筛
+753. a cork screw - 一个软木螺丝
+754. a bunch of bananas - 一串香蕉
+755. she could shrug - 她可以耸耸肩
+756. make her twirl her hair - 让她捻头发
+757. Clenching your fist - 握紧你的拳头
+758. snap your fingers - 打响指
+759. you sniff your [Music] armpit - 你闻你的[音乐]腋窝
+760. throw up - 呕吐
+761. ventilation - 通风
+762. your plot looks droopy - 你的情节看起来很糟糕
+763. funny is something humorous something that makes you laugh a joke is funny - 有趣的是幽默的东西让你发笑的笑话是有趣的
+764. I whipped something up - 我做了一些东西
+765. she some blood for a test oh you want to get your blood drwn - 她抽了一些血来做测试 哦你想把你的血吸干
+766. you're dizzy are you okay I don't want you to pass out pass out - 你头晕了还好吗我不想让你昏倒昏倒
+767. underscore 63 H the a with the at right at at gmail uh Point H full stop dot dot.com - 下划线 63 H a 与 gmail 右边的 a 点 H 句号 dot.com
+768. I'm not singing I'm whistling - 我不是在唱歌 我是在吹口哨
+769. I'm not singing I'm humming - 我不是在唱歌 我是在哼唱
+770. a straw no no not straw H to or to stir a spoon - 吸管 不 不 不是吸管 H 或搅拌勺子
+771. a stir - 一阵骚动
+772. a sleeve - 一个袖子
+773. a sleeve for your coffee - 为你的咖啡准备一个袖子
+774. it's completely torn - 它完全撕裂了
+775. that Shar has raped seams - Shar 强奸了接缝
+776. don't you think it's a little wrinkled - 你不觉得有点皱吗
+777. let's perform an ultrasound to see what's going on - 让我们进行超声波检查看看发生了什么
+778. I'm seeing some cysts on your ovaries - 我看到你的卵巢上有一些囊肿
+779. I couldn't care less - 我一点也不在乎
+780. it's not a pyramid scheme or that company we don't do pyramid marketing or anything but is my team structure is like a pyramid - 这不是传销，也不是我们不做传销的公司，而是我的团队结构就像金字塔一样
+781. we shouldn't go there everybody's boycotting yeah I know that one guy found a scorpion in his latte - 我们不应该去那里每个人都抵制是的我知道有人在他的拿铁咖啡中发现了一只蝎子
+782. presume - 怙
+783. vicious - 恶毒
+784. contempt - 鄙视
+785. acquainted - 认识的
+786. aggravated - 加重的
+787. burglary - 盗窃
+788. disbarred - 被取消律师资格
+789. you promised me that you would go to the amusement park during the summer vacation - 你答应过我暑假要去游乐园的
+790. filter - 筛选
+791. In general, constipation occurs when stool moves too slowly through the large intestine, also called the colon - 一般来说，当粪便通过大肠（也称为结肠）的速度过慢时，就会发生便秘。
+792. Nasal congestion - 鼻塞
+793. screen, sieve, filter, sift, riddle, beat - 筛子、筛子、过滤器、筛选、谜语、敲打
+794. filter, strain, filter out, sieve, filter off, sift - 过滤, 过滤, 滤出, 筛子, 过滤掉, 过筛
+795. sieve, screen, sifter - 筛子，筛子，筛子
+796. sieve, dense vegetation, rustle - 筛子，茂密的植被，沙沙声
+797. grater, rasp - 刨丝器，锉刀
+798. Clenching your fist means curling your fingers tightly against your palm, often in response to strong emotions like anger, or to physically hold something firmly. - 握紧拳头意味着将手指紧紧地握在手掌上，通常是对愤怒等强烈情绪的反应，或者是用身体紧紧握住某物。
